@@ -1,2 +1,2 @@
 # NewsApp
-Web app for posting news, built using Rect, MongoDB and Express
+Web app for posting news, built using React, MongoDB and Express
